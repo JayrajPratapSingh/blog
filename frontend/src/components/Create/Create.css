@@ -1,0 +1,27 @@
+.create-container{
+    width: 100%;
+}
+.create-container form{
+    width: 70%;
+    margin: auto;
+}
+.create-container form input{
+width: 70%;
+margin: auto;
+font-size: 3vh;
+padding: 1vh;
+margin-top: 3vh;
+border-radius: 10px;
+}
+
+textarea{
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+.post-btn{
+    background-color: rgb(52, 141, 224);
+}
+.post-btn:hover{
+    background-color: rgb(77, 154, 226);
+}

@@ -1,0 +1,44 @@
+.container{
+    width: 40%;
+    background-color: antiquewhite;
+    margin: auto;
+    border-radius: 10px;
+    padding: 5vh;
+   margin-top: 10vh;
+}
+h1{
+    margin-bottom: 5vh;
+}
+label{
+    font-size: 4vh;
+    font-weight: bold;
+}
+.container form input{
+    width: 100%;
+    font-size: 3vh;
+    padding: 1vh;
+    border-radius: 10px;
+    margin-bottom: 3vh;
+}
+.r-btn{
+   
+ 
+   
+    color: rgb(22, 67, 165);
+    border-radius: px;
+   
+    font-size: 3vh;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.btn{
+    width: 102.5%;
+    background-color: rgb(55, 148, 235);
+
+   
+}
+.btn:hover{
+    background-color: rgb(55, 148, 235);
+}
+
